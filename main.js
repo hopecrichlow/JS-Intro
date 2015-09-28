@@ -64,8 +64,9 @@ var instructorName;
 
 // Update the variables above so the expression reads correctly.
 // Answers Below:
-var yourName = "hadiya";
+var yourName = "Hadiya";
 var instructorName = "Tim";
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
+"Hadiya is taking a class at The Iron Yard, my instructor's name is Tim"
